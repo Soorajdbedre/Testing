@@ -2,3 +2,5 @@ Hello
 Im testing what happens when I edit this file in the cloud 
 
 So, i have to use the command git pull and it pulls all the changes I made here into my local machine
+
+Now, since I committed the third.txt file from my local machine too, now I can view the changes in cloud as well
